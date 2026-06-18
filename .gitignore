@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not the gitignore itself
+!.gitignore
+
+# And not privacy-policy.html
+!privacy-policy.html
